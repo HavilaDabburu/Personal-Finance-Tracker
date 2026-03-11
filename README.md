@@ -33,6 +33,9 @@ personal-finance-tracker
 3. Enter an expense description and amount.
 4. Click **Add Expense** to see it added to the list and included in the total.
 
+## Testing 
+<img width="1844" height="1165" alt="Screenshot from 2026-03-11 16-26-10" src="https://github.com/user-attachments/assets/73f82bb3-7fd0-4ad0-9b6a-beea6d1f85e2" />
+
 ## Note
 
 This project is a **basic implementation created for learning and practice purposes** while exploring web development.
